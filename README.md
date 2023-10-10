@@ -69,7 +69,7 @@ where `a` is the minimum support and `b` is the maximum support. The parameters 
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@v0.1.1-esm/index.mjs';
 ```
 
 #### entropy( a, b )
@@ -134,7 +134,7 @@ y = entropy( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@v0.1.1-esm/index.mjs';
 
 var a;
 var b;
