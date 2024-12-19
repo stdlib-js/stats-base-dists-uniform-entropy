@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-19)
+
+<section class="features">
+
+### Features
+
+-   [`4d6fbbd`](https://github.com/stdlib-js/stdlib/commit/4d6fbbd6ec73ee9d0ccb3bba1869f34d184329dd) - add C implementation for `stats/base/dists/uniform/entropy` [(#4021)](https://github.com/stdlib-js/stdlib/pull/4021)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3826](https://github.com/stdlib-js/stdlib/issues/3826)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4d6fbbd`](https://github.com/stdlib-js/stdlib/commit/4d6fbbd6ec73ee9d0ccb3bba1869f34d184329dd) - **feat:** add C implementation for `stats/base/dists/uniform/entropy` [(#4021)](https://github.com/stdlib-js/stdlib/pull/4021) _(by Divyansh Seth, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Divyansh Seth
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
