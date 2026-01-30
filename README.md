@@ -69,6 +69,11 @@ where `a` is the minimum support and `b` is the maximum support. The parameters 
 ## Usage
 
 ```javascript
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-uniform-entropy/tags). For example,
+
+```javascript
 import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@v0.3.0-esm/index.mjs';
 ```
 
@@ -134,7 +139,7 @@ y = entropy( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@v0.3.0-esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-entropy@esm/index.mjs';
 
 var a;
 var b;
